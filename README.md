@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter project.
+A new Flutter project to learn the flutter framework
 
 ## Getting Started
 
